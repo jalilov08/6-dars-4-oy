@@ -1,0 +1,168 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1440px;
+    height: 100%;
+    font-family: "Plus Jakarta Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;  
+}
+
+.header {
+    margin-left: 170px;
+    margin-top: 40px;
+    align-items: center;
+}
+
+.header a {
+    margin-left: 950px;
+    border: 1px solid black;
+    color: #fff;
+    text-decoration: none;
+    background-color: black;
+    padding: 15px 45px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+
+.header a:hover {
+    margin-left: 950px;
+    border: 1px solid black;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(162, 159, 159);
+    padding: 15px 45px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+
+.text {
+    margin-top: 90px;
+}
+
+.text h6 {
+    margin-left: 300px;
+    font-size: 70px;
+}
+
+.text p {
+    color: #7A746E;
+    font-size: 22px;
+    margin-left: 360px;
+    margin-top: 30px;
+}
+
+.rasm {
+    margin-left: 160px;
+    margin-top: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.rasm .two {
+    margin-left: 60px;
+}
+.girl {
+    display: flex;
+    margin-top: 150px;
+}
+
+.girl .foto img {
+    width: 445px;
+    height: 445px;
+    margin-left: 160px;
+}
+
+.about {
+    margin-left: 220px;
+    margin-top: 70px;
+}
+
+.about h6 {
+    font-size: 35px;
+}
+
+.about p {
+    font-size: 18px;
+    color: #7A746E;
+    margin-top: 50px;
+}
+
+.about a {
+    border: 1px solid #EB7565;
+    color: #fff;
+    text-decoration: none;
+    background-color:  #EB7565;
+    padding: 15px 25px;
+    border-radius: 60px;
+}
+
+
+.about a:hover {
+    border: 1px solid #EB7565;
+    color: #fff;
+    text-decoration: none;
+    background-color:  #922c1f;
+    padding: 15px 25px;
+    border-radius: 60px;
+}
+
+.work {
+    margin-top: 50px;
+    margin-left: 700px;
+}
+
+.filtr {
+    margin-top: 50px;
+    margin-left: 40px;
+}
+
+.arrow {
+    margin-top: 50px;
+}
+
+.arrow img {
+    margin-left: 700px;
+}
+
+.bottom {
+    margin-top: 60px;
+}
+
+.bottom img{
+    margin-left: 190px;
+}
+
+.end {
+    margin-left: 190px;
+    margin-top: 60px;
+    align-items: center;
+    margin-bottom: 80px;
+}
+
+.end a {
+    margin-left: 820px;
+    border: 1px solid black;
+    color: #fff;
+    text-decoration: none;
+    background-color: black;
+    padding: 15px 45px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
+
+.end a:hover {
+    margin-left: 950px;
+    border: 1px solid black;
+    color: #fff;
+    text-decoration: none;
+    background-color: rgb(162, 159, 159);
+    padding: 15px 45px;
+    border-radius: 60px;
+    margin-bottom: 10px;
+}
